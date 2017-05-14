@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BinCalc</string>
+    <string name="clear">C</string>
+    <string name="delete"><![CDATA[<=]]></string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="a">A</string>
+    <string name="four">4</string>
+    <string name="fife">5</string>
+    <string name="six">6</string>
+    <string name="b">B</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="c">C</string>
+    <string name="ziro">0</string>
+    <string name="f">F</string>
+    <string name="e">E</string>
+    <string name="d">D</string>
+    <string name="et_hint">Нажмите для выбора системы</string>
+</resources>
